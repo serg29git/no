@@ -10,9 +10,9 @@ Single-file Bash script with no external dependencies
 Prints "n" followed by new line continuously until interrupted
 Includes simple installer script to place/remove the command (uses sudo when needed)
 
-Quick install (example)
+Quick install
 
-Save the installer script and run: bash install-no.sh
+Save the repository and run the installer
 Run the command: no
 Stop with Ctrl-C.
 
