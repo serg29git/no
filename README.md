@@ -1,4 +1,7 @@
-No — a tiny Unix command that prints "n" indefinitely.
+languages:
+ru (русский, ру) : 2
+en (English, ен) :1
+1. No — a tiny Unix command that prints "n" indefinitely.
 
 Short description A minimalist command-line utility named "no" that outputs a continuous stream of the letter "n" (one per line). Useful for quick stress tests, terminal demos, or scripting experiments.
 
@@ -22,4 +25,7 @@ this project exists to exist.
 
 use with caution (it produces infinite output).
 
-THE SOFTWARE CREATOR IS NOT RESPONSIBLE FOR VERIFYING AGE
+2. No - мини unix - команда, которая бесконечно выдает одну 'n' на линию текста.
+
+описание (маленькое)
+No - супер маленький скрипт который бесконечно принтит 'n' имба для выбирания... (скоро будет)
