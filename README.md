@@ -21,3 +21,5 @@ Contributing Bug reports, installation improvements, or alternative implementati
 this project exists to exist.
 
 use with caution (it produces infinite output).
+
+THE SOFTWARE CREATOR IS NOT RESPONSIBLE FOR VERIFYING AGE
